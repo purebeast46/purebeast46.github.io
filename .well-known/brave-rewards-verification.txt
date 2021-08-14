@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: purebeast46.github.io
-Token: f7f62c33e9c0232c127734913c36e3794bcd65977c41acbb90a6c9a19d1895fe
