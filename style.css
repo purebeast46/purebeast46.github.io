@@ -1,6 +1,11 @@
+@font-face {
+  font-family: font;
+  src: url(font.ttf);
+}
+
 font{
     color: #fff;
-    font-family: serif;
+    font-family: font;
 
 }
 
