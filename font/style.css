@@ -1,12 +1,12 @@
 @font-face {
   font-family: font;
-  src: url(http://purebeast46.github.io/font.ttf);
+  src: url(font.ttf);
 }
 
 font{
     color: #fff;
     font-family: font;
-    font-size: large;
+    font-size: larger;
 
 }
 
