@@ -637,23 +637,23 @@ a.btn:active,
 }
 
 .skills-box .html {
-  width: 95%;
+  width: 5%;
 }
 
 .skills-box .nodejs {
-  width: 86%;
+  width: 6%;
 }
 
 .skills-box .css {
-  width: 90%;
+  width: 0%;
 }
 
 .skills-box .javascript {
-  width: 75%;
+  width: 5%;
 }
 
 .skills-box .mongodb {
-  width: 95%;
+  width: 5%;
 }
 
 .skills-box span {
@@ -748,12 +748,17 @@ a.btn:active,
 
 .image-container {
   height: 25rem;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  background-color: #000;
 }
 
 
 .image-container img {
   object-fit: cover;
   height: 25rem;
+  justify-self: center;
 }
 
 
